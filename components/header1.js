@@ -26,60 +26,12 @@ function headerSec() {
   <a href="index.html">Home</a>
   <a href="#">Players</a>
   <a href="#">Fixtures</a>
-  <a href="manager.html">Managers</a>
   <a href="#">Results</a>
   <a href="#">News</a>
   <a href="tables.html">Tables</a>
-  <a href="#">Socials</a>
   <a href="#">Transfers</a>
-  <a href="#">Youth</a>
-  <a href="#">Broadcasts</a>
-  <a href="#">SafeGuarding</a>
-  <a href="tickets.html">Tickets</a> 
-  <a href="#">History</a>
   <a href="#">Clubs</a>
-  <a href="#">Referees</a>
   </div> 
- 
-  
-</div>
-
-
-        
-<div class="dropdown">
-
-
-          <button ><strong>Fantasy &nbsp;&nbsp;&nbsp;&nbsp;
-      <i class="fa fa-caret-down"></i></strong></button>
-            <div class="dropdown-content">
-  <a href="#">Fantasy</a>
-  <a href="#">Fantasy Draft</a>
-  
-  </div>
-</div>
-
-        
-
-
-
-          <button id="headbtn"><strong>Video</strong></button>
-
-<div class="dropdown">
-
-          <button ><strong>Communities &nbsp;&nbsp;&nbsp;&nbsp;
-      <i class="fa fa-caret-down"></i></strong></button>
-
-
-                  <div class="dropdown-content">
-  <a href="#">Latest</a>
-  <a href="#">Strategy</a>
-  <a href="#">programmes</a>
-  <a href="#">Facilities</a>
-  <a href="#">PL Charitable Funds</a>
-  <a href="#">Supporting the Game</a>
-  
-  </div>
-</div>
 
         
 <div class="dropdown">
