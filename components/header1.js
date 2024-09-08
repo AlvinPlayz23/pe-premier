@@ -94,18 +94,12 @@ function headerSec() {
         <div id="head2">
           <button style="margin-left: 60px"><a href="index.html" style="text-decoration:none;color:#76766f">Home</a></button>
           <button><a href="fixture.html" style="text-decoration:none;color:#76766f">Fixtures</a></button>
-          <button>Results</button>
           <button><a href="tables.html" style="text-decoration:none;color:#76766f">Tables</a></button>
           <button>Transfers</button>
-          <button>Broadcast</button>
           <button><a href="tickets.html" style="text-decoration:none;color:#76766f">Tickets</a></button>
           <button>Clubs</button>
           <button>Players</button>
-          <button><a href="manager.html" style="text-decoration:none;color:#76766f">Manager</a></button>
           <button>News</button>
-          <button>Social</button>
-          <button>Youth</button>
-          <button>Safeguarding</button>
           <button style="margin-left: 70px; text-decoration:none" id="btn13"><span>&#8942;</span> &nbsp;More</button>
         </div>
       </div>
